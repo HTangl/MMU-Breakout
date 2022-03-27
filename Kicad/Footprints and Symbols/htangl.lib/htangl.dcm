@@ -1,0 +1,25 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Adafruit_32U4_5V
+D Adafruit ItsyBitsy 32u4 - 5V 16MHz
+K Adafruit ItsyBitsy 32u4 - 5V 16MHz
+$ENDCMP
+#
+$CMP Male_Micro_USB_Breakout
+D USB Micro Type B connector
+K connector USB micro
+F ~
+$ENDCMP
+#
+$CMP USBC_Breakout_C136423
+D USB Type-C Plug connector
+K usb universal serial bus
+$ENDCMP
+#
+$CMP USB_B_Mini
+D USB Mini Type B connector
+K connector USB mini
+F ~
+$ENDCMP
+#
+#End Doc Library
